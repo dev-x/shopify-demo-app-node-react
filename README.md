@@ -3,6 +3,10 @@
 
 This repository contains the completed app for the [Build a Shopify app with Node and React](https://developers.shopify.com/tutorials/build-a-shopify-app-with-node-and-react) tutorial.
 
+## Modifications
+
+This repository is modified to support session tokens [Authenticate your app using session tokens](https://shopify.dev/tutorials/authenticate-your-app-using-session-tokens). It's implemented by using `koa-shopify-jwt-auth`.
+
 ## Using demo app
 
 If you plan to use this completed app, then make sure that you first complete these setup instructions:
